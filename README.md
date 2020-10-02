@@ -1,4 +1,4 @@
-muzooka-lastfm
+muzooka
 
 ```
 require 'muzooka'
