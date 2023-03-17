@@ -42,4 +42,8 @@ irb(main):013:0> muzooka.social_links
   ### Linkedin profile:
  
  https://www.linkedin.com/in/blazevic-ivan/
+ 
+ ### Website:
+ 
+ https://rubycode.co/
 
