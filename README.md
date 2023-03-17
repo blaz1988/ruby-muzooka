@@ -1,4 +1,6 @@
-muzooka
+## Ruby Muzooka Gem
+
+The Ruby Muzooka Gem is a Ruby library that provides an easy-to-use interface for interacting with the Muzooka API. With this gem, you can easily fetch information about artists, albums, songs, and more from the Muzooka database.
 
 ```
 require 'muzooka'
@@ -8,7 +10,7 @@ muzooka.images # returns artist images
 muzooka.social_links # returns artist social links 
 ```
 
-Examples
+### Examples
 
 ```
 irb(main):010:0> muzooka.bio
@@ -26,14 +28,18 @@ irb(main):013:0> muzooka.social_links
 => [{"type"=>"youtube", "id"=>"UC07Kxew-cMIaykMOkzqHtBQ", "url"=>"https://www.youtube.com/channel/UC07Kxew-cMIaykMOkzqHtBQ"}, {"type"=>"facebook", "id"=>"ladygaga", "url"=>"https://www.facebook.com/ladygaga"}, {"type"=>"spotify", "id"=>nil, "url"=>"https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms?autoplay=true&v=A"}, {"type"=>"twitter", "id"=>"ladygaga", "url"=>"https://twitter.com/ladygaga"}, {"type"=>"instagram", "id"=>"ladygaga", "url"=>"https://www.instagram.com/ladygaga"}, {"type"=>"soundcloud", "id"=>"ladygaga", "url"=>"https://www.soundcloud.com/ladygaga"}, {"type"=>"iheartradio", "id"=>"lady-gaga-39335", "url"=>"https://www.iheart.com/artist/lady-gaga-39335"}]
 ```
 
-Supported Rubies
+### Supported Rubies
 ```
  > 2.6.1
  tested and recommended 2.6.5
 ```
  
- Author:
- ```
- Ivan Blazevic
- https://www.linkedin.com/in/ivan-bla%C5%BEevi%C4%87-1710b5a3/
- ```
+ ### Author:
+ 
+ 
+ Senior Ruby on Rails developer | The founder of RubyCode ─ helping companies with cost-effective remote staffing solutions
+ 
+  ### Linkedin profile:
+ 
+ https://www.linkedin.com/in/blazevic-ivan/
+
